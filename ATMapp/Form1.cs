@@ -112,6 +112,7 @@ namespace ATMapp
             MessageBox.Show("Para yatırma işlemi başarıyla tamamlandı yeni bakiyeniz: " + (bakiye + yatiralacak_tutar_int));
           
         }
+
        
       
 
